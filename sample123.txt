@@ -1,0 +1,1 @@
+this is the first git pushing notepad from the vscode terminal
